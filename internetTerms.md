@@ -59,3 +59,6 @@ icanhazdadjoke.com
 IP Address - 104.21.66.15
 
 PART THREE:
+
+- can find it in debugger > Network > select the page (localhost) tab > Headers, Preview, Response
+
